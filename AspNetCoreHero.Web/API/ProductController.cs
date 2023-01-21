@@ -12,5 +12,6 @@ namespace AspNetCoreHero.Web.API
     [ApiController]
     public class ProductController : BaseApiController
     {
+     // Write code here
     }
 }
